@@ -16,13 +16,15 @@ p{
 }
 .celeste{
     background-color: #8eecf5;
+    
 }
 i{
     color: #fff;
     background-color:#8eecf5 ;
+    border-color: #8eecf5;
 }
 .card-img-top{
-    height: 100pt;
+    height: 150pt;
     width: auto;
 }
 
