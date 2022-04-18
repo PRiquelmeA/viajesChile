@@ -4,8 +4,19 @@
     padding: 0;
     font-family: 'Lobster', cursive;
 }
+h1{
+    font-size: medium;
+    color: #fff;
+}
 p{
     font-family: 'Cabin', sans-serif;
-    font-size: 10pc;
+    font-size: 10pt;
+    color: aliceblue;
+    text-align: justify;
 }
-
+.celeste{
+    background-color: #8eecf5;
+}
+i{
+    color: #fff;
+}
